@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "FILL_IN",
+        "DB_PASSWORD": "FILL_IN",
+        "DB_NAME": "FILL_IN",
+        "JWT_KEY": "FILL_IN"
+    }
+}
